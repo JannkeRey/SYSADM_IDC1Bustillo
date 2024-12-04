@@ -153,7 +153,8 @@ potential bottlenecks and scalability concerns:
 
 **Proposed Strategies to Improve Scalability and Performance**
 
-![](vertopal_92cf16098c9741678a97ed36306a7ef0/media/image4.png){width="5.018055555555556in"
+![image](https://github.com/user-attachments/assets/5e1d8329-88a7-43ab-a8f5-1f94caa3fa0a)
+
 height="4.632638888888889in"}
 
 I.  Add a Backup Core Switch
