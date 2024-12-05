@@ -54,27 +54,37 @@
 
 **PRELIMS:Seatwork 1**
 
-![](vertopal_825dc6d15fb04e5fa86a195608b6e52e/media/image2.jpg){width="2.307292213473316in"
-height="3.0571609798775152in"}
+![image](https://github.com/user-attachments/assets/fc91a229-f75c-4346-aedc-c3f824f58cf4)
+
 
 **PRELIMS: Case Study Activity**
 
-![](vertopal_825dc6d15fb04e5fa86a195608b6e52e/media/image5.jpg){width="4.062655293088364in"
-height="5.419792213473316in"}
+![image](https://github.com/user-attachments/assets/7e5234e0-708e-4d80-98cf-c0698105b6ea)
+
+
 
 **PRELIMS : Policies**
 
-![](vertopal_825dc6d15fb04e5fa86a195608b6e52e/media/image3.jpg){width="4.755208880139983in"
-height="6.340277777777778in"}
+![image](https://github.com/user-attachments/assets/02ea8426-965e-47cd-b8cb-a207792b1143)
+
 
 **MIDTERMS: Mind Map Linux and Windows**
 
-![](vertopal_825dc6d15fb04e5fa86a195608b6e52e/media/image6.jpg){width="4.692708880139983in"
-height="3.519530839895013in"}
+![image](https://github.com/user-attachments/assets/8076fe72-f07c-4588-80b5-829086be6865)
+
 
 **MIDTERMS:Activity 1\
-**![](vertopal_825dc6d15fb04e5fa86a195608b6e52e/media/image4.jpg){width="4.405442913385826in"
-height="3.3040824584426947in"}
+![image](https://github.com/user-attachments/assets/5686f6b7-7467-4994-93fa-09467d8386e6)
+
+
+
+
+**MIDTERMS: Mind Map Linux and Windows**
+![image](https://github.com/user-attachments/assets/0fb0a089-a869-450b-8fc1-8e82d7c49ebe)
+
+**FINALS: DATA LOSS**
+![image](https://github.com/user-attachments/assets/ae99bf00-082d-432d-b716-c4a432d2bfce)
+
 
 **Course Reflection**
 
