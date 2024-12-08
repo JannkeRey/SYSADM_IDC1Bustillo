@@ -85,6 +85,15 @@
 **FINALS: DATA LOSS**
 ![image](https://github.com/user-attachments/assets/ae99bf00-082d-432d-b716-c4a432d2bfce)
 
+**Acceptable Use Policies**
+![image](https://github.com/user-attachments/assets/5b157031-2b6e-45a9-aa85-8b41ffc6c0d0)
+
+**Capacity Management & Planning**
+![image](https://github.com/user-attachments/assets/52fa31ce-6cba-4fff-81be-648e3b2c0cbf)
+
+
+
+
 
 **Course Reflection**
 
